@@ -1,7 +1,3 @@
-# 💫 About Me:
-Computer Science undergraduate student seeking to further my knowledge,<br>build a professional network within the computer science community, <br>and gain valuable work experience. I am open to learning, highly adaptable, <br>and eager to contribute to a dynamic team. 
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/u8nkrUrW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaon1244) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kaon1244) 
 
